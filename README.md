@@ -6,6 +6,6 @@ This repository contains our Computer Networks Phase 1 project. The project demo
 The repository includes the backend services, configuration files, documentation, and instructions required to run and evaluate the project.
 
 👥 Team Members
-Name	Role
-Vaibhav Rajput	Team Member
-Parv	Team Member
+Name	
+Vaibhav Rajput - 2401010487
+Parv - 2401010322
